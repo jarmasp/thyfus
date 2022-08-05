@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose Armas
-- 👀 I’m a psychologist interested in changing careers towards data analytics and data science 
-- 🌱 I’m currently learning python (sql alchemy and pyspark) and sql
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m a data analytis
+- 🌱 I’m currently learning ML modeling for data science
+- 💞️ I’m looking to collaborate
 - 📫 you can send me a message in linkedin https://www.linkedin.com/in/jose-armas/?locale=en_US
 
 <!---
