@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jose Armas
-- 👀 I’m a data analytis
-- 🌱 I’m currently learning ML modeling for data science
-- 💞️ I’m looking to collaborate
+- 👀 I’m a back-end software developer
+- 🌱 I’m currently learning how to use front-end frameworks like vue and react
 - 📫 you can send me a message in linkedin https://www.linkedin.com/in/jose-armas/?locale=en_US
 
 <!---
